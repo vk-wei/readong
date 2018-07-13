@@ -1,0 +1,30 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="top">
+	<div class="container">
+        <div class="col-xs-7 col-lg-3 top-logo"><a href="index.html" title="旭峰门业"><img src="images/logo.jpg" alt="旭峰门业" /></a></div>
+        <div class="col-xs-7 hidden-xs">
+            <nav>
+                <ul class="nav nav-pills">
+                <li class="active"><a href="index.html">首页</a></li>
+                <li><a href="solution.html">解决方案</a></li>
+                <li><a href="products.html">产品信息</a></li>
+                <li><a href="cases.html">工程案例</a></li>
+                <li><a href="about.html">关于我们</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="col-xs-4 col-lg-2 top-phone"><span>400-928-8383</span></div>
+        <div class="col-xs-1 top-nav visible-xs-block"><span class="glyphicon glyphicon-th-list"></span></div>
+        <div class="top-menu">
+        		<div class="top-menu-close"></div>
+                <ul class="nav">
+                <li class="active"><a href="index.html">首页</a></li>
+                <li><a href="solution.html">解决方案</a></li>
+                <li><a href="products.html">产品信息</a></li>
+                <li><a href="cases.html">工程案例</a></li>
+                <li><a href="about.html">关于我们</a></li>
+                </ul>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,26 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<section class="foot-about index-row">
+	<div class="container">
+    	<div class="col-xs-6 col-lg-6"><img src="images/logo2.jpg" /></div>
+        <div class="col-xs-6 col-lg-6 text-right">
+            <p class="f20">物流、制造业物流进出口通行方案提供商   首选旭峰</p>
+            <p class="f16">专业方案＋精心设计＋高标准生产＋完整售后团队</p>
+            <img src="images/logo.jpg" width="132" class=" hidden-xs" />
+        </div>
+    </div>
+</section>
+
+<section class="foot-link index-row">
+    <div class="container">
+    	<div class="col-xs-12 col-lg-6 foot-link1">
+        	<a href="" class="foot-sina">官方微博</a><a href="" class="foot-wechat">官方微信</a>
+        </div>
+        <div class="col-xs-12 col-lg-6 foot-link2">
+        	<a href="index.html">首页</a> | <a href="solution.html">解决方案</a> | <a href="products.html">产品信息</a> | <a href="cases.html">工程案例</a> | <a href="about.html">关于我们</a>
+        </div>
+    </div>
+</section>
+
+<section class="foot-copyright index-row">
+    <div class="container text-center">©2015版权所有：旭峰 苏ICP备11074344号-1</div>
+</footer>
